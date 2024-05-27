@@ -39,6 +39,7 @@ require("lazy").setup({
 	},
 
 
+	
 
 	require("plugins.configs.colorscheme"),
 	require("plugins.configs.lspconfig"),
